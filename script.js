@@ -19,7 +19,7 @@ let btnYesScale = 1;
 let btnNoScale = 1;
 
 btnNo.addEventListener('click', () => {
-    image.src = "https://media.tenor.com/UNaQFutfOF0AAAAi/banana-crying-cat.gif"
+    image.src = "https://i.pinimg.com/originals/64/4b/88/644b88254ec38a97c422ce861ddcaea2.gif"
     title.innerHTML = "Oh no, please click yes"
     happySound.pause()
     sadSound.play()
