@@ -4,7 +4,7 @@ let image = document.querySelector('#image');
 let title = document.querySelector('#title');
 let btnYes = document.querySelector('#btnYes');
 let btnNo = document.querySelector('#btnNo');
-let happySound = new Audio("./assets/happy-cat.mp3")
+let happySound = new Audio("./https://www.myinstants.com/en/instant/happy-happy-happy-cat-17367/?utm_source=copy&utm_medium=share")
 let sadSound = new Audio("./assets/crying-cat.mp3")
 
 btnYes.addEventListener('click', () => {
